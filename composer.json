@@ -1,0 +1,8 @@
+{
+    "name": "vendor/quete",
+    "description": "quete composer",
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
